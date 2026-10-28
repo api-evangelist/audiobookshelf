@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Audiobookshelf is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://audiobookshelf.org/
+Audiobookshelf provides a self‑hosted audiobook and podcast server that lets users organize, stream, and share their personal media collections. It offers a web UI, mobile apps, and integrations for popular platforms, supporting features like library management, playback controls, and metadata fetching from online sources.
+
+**Areas:** Company · Self-Hosted · Audiobooks · Podcast · Media Server
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://audiobookshelf.org/)
+- [Documentation](https://audiobookshelf.org/docs/documentation/introduction/)
+- [Support](https://audiobookshelf.org/docs/faq/general/)
+- [Blog](https://audiobookshelf.org/blog)
+- [Privacy policy](https://audiobookshelf.org/privacy-policy)
+- [GitHub](https://github.com/advplyr)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/audiobookshelf/](https://apis.io/providers/audiobookshelf/).
